@@ -1,0 +1,11 @@
+apiVersion: v1
+entries:
+  sm-data-stores:
+  - apiVersion: v2
+    appVersion: "1.0.0001"
+    created: "2020-07-14T14:23:09.79952908+10:00"
+    description: SSP Operations Support Systems
+    name: sm-data-stores
+    urls:
+    - sm-data-stores-1.0.0001.tgz
+    version: 1.0.0001
